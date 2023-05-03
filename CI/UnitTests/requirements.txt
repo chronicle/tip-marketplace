@@ -25,7 +25,7 @@ olefile==0.46
 packaging==19.2
 pathlib2==2.3.5
 pluggy==0.13.0
-py==1.8.0
+py==1.11.0
 pyparsing==2.4.2
 PySocks==1.7.1
 pytest==4.6.5
